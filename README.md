@@ -5,3 +5,13 @@
 Работает через сайт - www.anekdot.ru .
 Аникдоты повторяться не должны, а если повторяться - вина не моя)
 # Можно ознакомитться в telegram тут - @anegbot. Если у автора хорошее настроение, то он работает!
+Библиотеки:
+1. requests
+2. BeautifulSoup4
+3. pytelegrambotapi==3.7.3
+# Установка
+pip install requests
+pip install beautifulsoup4
+pip install pytelegrambotapi==3.7.3
+# Использование
+python bot.py
