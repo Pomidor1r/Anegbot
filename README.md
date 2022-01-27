@@ -10,8 +10,8 @@
 2. BeautifulSoup4
 3. pytelegrambotapi==3.7.3
 # Установка
-pip install requests
-pip install beautifulsoup4
-pip install pytelegrambotapi==3.7.3
+1. pip install requests
+2. pip install beautifulsoup4
+3. pip install pytelegrambotapi==3.7.3
 # Использование
 python bot.py
